@@ -1,0 +1,2 @@
+# Preserve the supplied source files and recorded hashes without newline conversion.
+* -text

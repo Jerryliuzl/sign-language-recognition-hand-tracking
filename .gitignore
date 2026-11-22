@@ -221,3 +221,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local datasets and generated output
+/data/
+/outputs/
+
+# Historical experiments and local audit archives
+/reference/original_scripts/
+/reference/old_reports/
+/reference/diffs/
+/reference/copy_manifest.json
+/reference/source_changes.json
+/reference/verification_results.json
+/leap_unity/reference/
+/models/legacy/
+/models/current/pending_*
